@@ -9,8 +9,8 @@ import translators as ts
 
 token = ""
 
-en_channel_id = 1210674636195504199
-cn_channel_id = 1210674653639479366
+en_channel_id = 0
+cn_channel_id = 0
 
 
 intents = discord.Intents.default()
